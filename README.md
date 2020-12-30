@@ -1,2 +1,2 @@
 # cmi
-Detection ofconditional dependence between multiple variables using multiinformation
+Detection of conditional dependence between multiple variables using multiinformation
